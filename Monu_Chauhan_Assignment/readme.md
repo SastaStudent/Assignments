@@ -56,11 +56,11 @@ This Flutter application provides a simple Login Page with Username and Email in
 
 1. **Clone the repository**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/SastaStudent/Assignments.git
    ```
 2. **Navigate to the project directory**
    ```sh
-   cd flutter_project
+   cd testingapp
    ```
 3. **Install dependencies**
    ```sh
