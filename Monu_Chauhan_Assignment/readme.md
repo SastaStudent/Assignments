@@ -60,6 +60,8 @@ This Flutter application provides a simple Login Page with Username and Email in
    ```
 2. **Navigate to the project directory**
    ```sh
+   cd Assignments
+   cd Monu_Chauhan_Assignment
    cd testingapp
    ```
 3. **Install dependencies**
@@ -70,6 +72,8 @@ This Flutter application provides a simple Login Page with Username and Email in
    ```sh
    flutter run
    ```
+   1. If directly run then nothing to do. but, When not run.
+   2. Choose device to run flutter app.
 
 ## Dependencies
 
